@@ -25,4 +25,4 @@ You will see :
 * in white : the geometry
 
 Results come from **F. Giussani, F. Piscaglia, J. Hélie, N. Lamarque, Int. Journal of Multiphase Flow, submitted, 2019** 
-and the simulations have been performed on CINES and ANL supercomputer platforms.
+and the simulations have been performed on **CINES** and **ANL** supercomputer platforms.
