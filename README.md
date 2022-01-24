@@ -1,4 +1,4 @@
-# CFD_Visualization_VR_demo
+# CFD Visualization VR Demo
 Demo of the VR visualization of a result of computational fluid dynamics.
 
 # Requirements
